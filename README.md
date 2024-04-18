@@ -3,6 +3,15 @@ Original App Design Project - README Template
 
 # Vacation Tracker
 
+<div>
+    <a href="https://www.loom.com/share/4f73676fe1ae4bfa8788da82dbb40b21">
+     
+    </a>
+    <a href="https://www.loom.com/share/4f73676fe1ae4bfa8788da82dbb40b21">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4f73676fe1ae4bfa8788da82dbb40b21-with-play.gif">
+    </a>
+  </div>
+
 ## Table of Contents
 
 1. [Overview](#Overview)

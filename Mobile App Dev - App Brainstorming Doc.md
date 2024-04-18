@@ -35,13 +35,13 @@ Mobile App Dev - App Brainstorming Doc
 2. Vacation Finder
     - Allows users to have access to a list of both the most popular vacation places to go to and also an access to the most affordable deals. You can also favorite the locations you want.
     
-3. Used Text Book Exchange
+3. Rate my 
 
 
 ## Top 3 New App Ideas
 1. Skin Care app
 2. Vacation Finder
-3. Subscription Tracker
+3. Video game suggester
 
 ## New App Ideas - Evaluate and Categorize
 1. Vacation Finder
@@ -49,10 +49,10 @@ Mobile App Dev - App Brainstorming Doc
 
    - **Category:** Travel
    - **Mobile:** Mobile is essential for the instant access to travel information.
-   - **Story:** Creates a team between student, parent and teacher. Allows good behavior to not go unnoticed and for students to get rewards and positive reinforcement from teachers, parents and peers
-   - **Market:** Any school district or individual classroom teacher of any grade could utilize this app. District wide licensing and custom features could be used for monetization. 
-   - **Habit:** Teachers are using this constantly throughout the school day. Students are using the app daily to check their performance and cash in on rewards.
-   - **Scope:** V1 would allow teachers to access a roster of students and input behavior logs. Could actually be tested by a real teacher with a class of students. V2 would incorporate a student facing version for students to see their performance. V3 would add a way for students to earn and obtain rewards for goals met. V4 would incorporate a parent facing version.
+   - **Story:** Allows users to create a list of favorite vacation places, where others can also vouch for as being worth it.
+   - **Market:** Any person who is thinking of travelling could utilize. Subscriptions will allow users to have access to more vacations.
+   - **Habit:** Can be used many times when fit. Whenever people need travelling guidance, they can use this app. It will not be habitually used though.
+   - **Scope:** Search and Discovery: Users can search for vacation places based on various criteria such as location, activities, cost, and dates. The app provides a curated list of top-rated vacation spots along with detailed information about activities available at each destination. V2: Real-Time Data: The app continuously updates with real-time data to display the cheapest deals for vacations, including flight prices, hotel rates, and package deals. This feature helps users find the best value for their money and stay within their budget. V3: Favorite List: Users can create a list of their favorite vacation places within the app. Other users 
 
 
 

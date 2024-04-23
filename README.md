@@ -1,15 +1,7 @@
 Original App Design Project - README Template
 ===
 
-# Vacation Tracker
-
-<div>
-    <a href="https://www.loom.com/share/4f73676fe1ae4bfa8788da82dbb40b21">
-    </a>
-    <a href="https://www.loom.com/share/4f73676fe1ae4bfa8788da82dbb40b21">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4f73676fe1ae4bfa8788da82dbb40b21-with-play.gif">
-    </a>
-  </div>
+# Food Nation
 
 ## Table of Contents
 
@@ -20,13 +12,44 @@ Original App Design Project - README Template
 
 ## Overview
 
+<div>
+    <a href="https://www.loom.com/share/214b1ae3f38349a1927e20678150a0b0">
+      <p>Simulator - iPhone 15 Pro - 23 April 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/214b1ae3f38349a1927e20678150a0b0">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/214b1ae3f38349a1927e20678150a0b0-with-play.gif">
+    </a>
+  </div>
+
+<div>
+    <a href="https://www.loom.com/share/4f73676fe1ae4bfa8788da82dbb40b21">
+    </a>
+    <a href="https://www.loom.com/share/4f73676fe1ae4bfa8788da82dbb40b21">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4f73676fe1ae4bfa8788da82dbb40b21-with-play.gif">
+    </a>
+  </div>
+
 ### Description
 
-Vacation Tracker is an app designed to help users plan and track their vacations efficiently. Users can discover top-rated vacation places, explore activities, and find the best deals in real time. They can also create a list of favorite destinations and share recommendations with others. The app aims to provide a comprehensive travel experience, accessible anytime, anywhere via mobile devices.
+Food Nation is an innovative app designed to revolutionize the way you plan, prepare, and enjoy meals tailored to your unique preferences and goals. Here's what you can expect:
+
+#### Get Started with Ease
+
+* Input your personal information, dietary preferences, and meal goals for a tailored experience.
+* Set your ingredient preferences, dietary restrictions, and desired body goals to receive personalized recommendations.
+#### Discover Delicious Recipes
+
+* Scroll through a curated list of mouthwatering meal options based on your preferences and goals.
+* Explore detailed information about each meal, including cost, ingredients, and preparation time, empowering you to make informed choices.
+
+#### Stay Informed with Real-Time Data
+
+* Stay up-to-date with real-time data on trending foods for optimal protein intake, ensuring you meet your nutritional needs effortlessly.
+
 
 ### App Evaluation
 
-- **Category:** Travel
+- **Category:** Food
 
 - **Mobile:** Mobile is essential for instant access to travel information.
 - **Story:** Allows users to plan and track vacations easily.
@@ -41,12 +64,13 @@ Vacation Tracker is an app designed to help users plan and track their vacations
 ### 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
-* User can search for vacation places based on location, activities, cost, and dates.
-* User can view detailed information about each vacation place, including activities and costs.
-* User can see real-time data on the cheapest deals for vacations.
-* User can create a list of favorite vacation places.
-* User can subscribe for access to more vacation options and exclusive deals.
-* User can engage with the community by sharing experiences and recommendations.
+* User can input information about themselves, preferences and their meal goals for app evaluation.
+* User can scroll through a list of meals with recipes that are based on user preferences.
+* User can view detailed information about each meal place, including costs, ingredients, time it takes to prepare.
+* User can see real-time data on the trending foods for protein intake.
+* User can create a list of favorite meals.
+
+
 
 **Optional Nice-to-have Stories**
 
@@ -56,20 +80,25 @@ Vacation Tracker is an app designed to help users plan and track their vacations
 * User can receive notifications for new deals and recommendations.
 * Screen Archetypes
 * Search Results Screen
+* User can engage with the community by sharing experiences and recommendations.
+* User can subscribe for access to more vacation options and exclusive deals.
 
 ### 2. Screen Archetypes
 
-- [ ] Search Results Screen
-User can view a list of vacation places based on search criteria.
+- [x] Intro Welcome Screen
+User can see an overview of the app the first time they open it.
 
-- [ ] Vacation Details Screen
-User can view detailed information about a specific vacation place.
+- [ ] Intro Preferences Screen
+User can set their preferences such as ingredient preferences, meal goals, body goals.
+
+- [ ] Home Screen
+User can view a list of recommended recipes based on user preferences. List of recipes will be gathered from an API in real-time.
 
 - [ ] Favorites Screen
-User can view and manage their list of favorite vacation places.
+User can add liked recipes into their stash or favorites bin
 
-- [ ] Subscription Screen
-User can subscribe for access to additional features and exclusive deals.
+- [ ] Meal Detail Screen
+User can see in detail each recipe and their instructions, image, ingredients and time it takes to make.
 
 
 
@@ -77,18 +106,20 @@ User can subscribe for access to additional features and exclusive deals.
 
 **Tab Navigation** (Tab to Screen)
 
-* Search
-* Favorites
 * Home
+* Recipe Detail
+* Favorites
+* Preferences
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Search -> Search Results Screen -> Vacation Details Screen
+- [ ] Recipe -> Recipe Detail -> Home
 
+- [ ] Recipe Detail -> Favorites -> 
 
-- [ ] Search -> Real-Time Deals Screen
+- [ ] Favorites -> Recipe Detail Favorites
 
-- [ ] Favorites -> Favorites Screen
+- [ ] Preferences -> Home
 
 ## Wireframes
 

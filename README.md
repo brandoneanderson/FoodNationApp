@@ -76,12 +76,15 @@ Food Nation is an innovative app designed to revolutionize the way you plan, pre
 
 
 * User can receive personalized recommendations based on preferences.
-* User can track past vacations and review their experiences.
+* User can set meal plans on calendars to remind them to cook it that day
+* User can create a checklist of ingredients needed for meals before preparation
+* User can see a separate tab for the ingredients and instructions for cooking for each meal.
+* User can track past meals and review their experiences.
 * User can receive notifications for new deals and recommendations.
 * Screen Archetypes
 * Search Results Screen
 * User can engage with the community by sharing experiences and recommendations.
-* User can subscribe for access to more vacation options and exclusive deals.
+* User can subscribe for access to more meal options and exclusive deals.
 
 ### 2. Screen Archetypes
 

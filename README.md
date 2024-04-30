@@ -11,16 +11,26 @@ Original App Design Project - README Template
 4. [Schema](#Schema)
 
 ## Overview
+- Creation of home and favorites screen, with API requests.
+<div>
+    <a href="https://www.loom.com/share/3bcc0a8879c444ca8dccf5526fc6ea87">
+    </a>
+    <a href="https://www.loom.com/share/3bcc0a8879c444ca8dccf5526fc6ea87">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3bcc0a8879c444ca8dccf5526fc6ea87-with-play.gif">
+    </a>
+  </div>
 
+- Creation of onboarding Workflow Video
 <div>
     <a href="https://www.loom.com/share/214b1ae3f38349a1927e20678150a0b0">
-      <p>Simulator - iPhone 15 Pro - 23 April 2024 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/214b1ae3f38349a1927e20678150a0b0">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/214b1ae3f38349a1927e20678150a0b0-with-play.gif">
     </a>
   </div>
 
+
+- First Creation of App Video
 <div>
     <a href="https://www.loom.com/share/4f73676fe1ae4bfa8788da82dbb40b21">
     </a>
@@ -127,7 +137,7 @@ User can see in detail each recipe and their instructions, image, ingredients an
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
-<img src="https://imgur.com/IXXUJMy" width=600>
+<img src="https://imgur.com/IXXUJMy.png" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 https://www.figma.com/file/r7uHcIHDsDbWvytscL50Bc/Figma-Meal-Prep-App?type=design&node-id=0%3A1&mode=design&t=Kp191PnKaRmTg5fu-1 
@@ -152,10 +162,9 @@ https://www.figma.com/proto/r7uHcIHDsDbWvytscL50Bc/Figma-Meal-Prep-App?type=desi
 
 ### Models
 
-<img src="(https://i.imgur.com/ElQXsA0.png)" width=600>
+<img src="https://i.imgur.com/ElQXsA0.png" width=600>
 
-<img src="(https://i.imgur.com/cNTMRpJ.png
-)" width=600>
+<img src="https://i.imgur.com/cNTMRpJ.png" width=600>
 
 
 ### Networking
@@ -163,7 +172,20 @@ https://www.figma.com/proto/r7uHcIHDsDbWvytscL50Bc/Figma-Meal-Prep-App?type=desi
 Network Request on main screen = https://api.spoonacular.com/recipes/findByNutrients?apiKey=fa58640addfd40d88962b3471f84a960&minProtein=20&maxProtein=100&number=15 
 
 
-- [Create basic snippets for each Parse network request]
+- Parse network Request Code Snippet
+var request = URLRequest(url: URL(string: "https://api.spoonacular.com/recipes/complexSearch?apiKey=fa58640addfd40d88962b3471f84a960&minProtein=20&minServings=3&maxReadyTime=60&number=15")!,timeoutInterval: Double.infinity)
+request.httpMethod = "GET"
+
+let task = URLSession.shared.dataTask(with: request) { data, response, error in 
+  guard let data = data else {
+    print(String(describing: error))
+    return
+  }
+  print(String(data: data, encoding: .utf8)!)
+}
+
+task.resume()
+
 
   
 - API Endpoint = https://api.spoonacular.com/recipes/findByNutrients

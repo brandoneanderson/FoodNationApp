@@ -150,7 +150,8 @@ https://www.figma.com/proto/r7uHcIHDsDbWvytscL50Bc/Figma-Meal-Prep-App?type=desi
 
 ### Models
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/4QUe5Qr" data-context="false" ><a href="//imgur.com/a/4QUe5Qr"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="(https://i.imgur.com/ElQXsA0.png)" width=600>
+
 
 
 ### Networking

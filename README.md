@@ -133,11 +133,13 @@ User can see in detail each recipe and their instructions, image, ingredients an
 https://www.figma.com/file/r7uHcIHDsDbWvytscL50Bc/Figma-Meal-Prep-App?type=design&node-id=0%3A1&mode=design&t=Kp191PnKaRmTg5fu-1 
 
 ### [BONUS] Interactive Prototype
+- Link to interactive protocol in Figma
 https://www.figma.com/proto/r7uHcIHDsDbWvytscL50Bc/Figma-Meal-Prep-App?type=design&node-id=1-2&t=SXAgUa8djPjaNaAM-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design 
 
+
+- Video of interactive Protocol in Figma
 <div>
     <a href="https://www.loom.com/share/bf95b825c5ad4602b68b1ae5a06452e1">
-      <p>Interactive Prototype Video on Figma</p>
     </a>
     <a href="https://www.loom.com/share/bf95b825c5ad4602b68b1ae5a06452e1">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/bf95b825c5ad4602b68b1ae5a06452e1-with-play.gif">
@@ -152,6 +154,8 @@ https://www.figma.com/proto/r7uHcIHDsDbWvytscL50Bc/Figma-Meal-Prep-App?type=desi
 
 <img src="(https://i.imgur.com/ElQXsA0.png)" width=600>
 
+<img src="(https://i.imgur.com/cNTMRpJ.png
+)" width=600>
 
 
 ### Networking

@@ -60,12 +60,11 @@ Food Nation is an innovative app designed to revolutionize the way you plan, pre
 ### App Evaluation
 
 - **Category:** Food
-
-- **Mobile:** Mobile is essential for instant access to travel information.
-- **Story:** Allows users to plan and track vacations easily.
-- **Market:** Targets anyone interested in traveling.
-- **Habit:** While not habitually used, it serves as a go-to resource for travel guidance.
-- **Scope:** Offers a range of features including search, real-time data, favorites, subscriptions, and community interaction.
+- **Mobile:** Mobile is essential for instant access to meal plans and ingredient information.
+- **Story:** Allows users to plan, change, and track their meals easily.
+- **Market:** Targets anyone interested in losing/gaining weight, tracking their protein intake, and cooking.
+- **Habit:** It will be habitually used, and it serves as a go-to resource for meal preparation guidance for your daily meals.
+- **Scope:** Offers a range of features, including protein range, real-time data, favorites, subscriptions, and community interaction in the future.
 
 
 
@@ -126,9 +125,9 @@ User can see in detail each recipe and their instructions, image, ingredients an
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Recipe -> Recipe Detail -> Home
+- [x] Recipe -> Recipe Detail -> Home
 
-- [x] Recipe Detail -> Favorites -> 
+- [ ] Recipe Detail -> Favorites -> 
 
 - [ ] Favorites -> Recipe Detail Favorites
 

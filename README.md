@@ -45,8 +45,8 @@ Food Nation is an innovative app designed to revolutionize the way you plan, pre
 
 #### Get Started with Ease
 
-* Input your personal information, dietary preferences, and meal goals for a tailored experience.
-* Set your ingredient preferences, dietary restrictions, and desired body goals to receive personalized recommendations.
+* Input your personal information, dietary preferences, body goals, and meal goals for a tailored experience.
+* In the future, be able to create and view others food recommendations
 #### Discover Delicious Recipes
 
 * Scroll through a curated list of mouthwatering meal options based on your preferences and goals.
